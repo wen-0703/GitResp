@@ -1,0 +1,12 @@
+/* *{
+    color: red;
+} */
+
+/* 选中所以具有href属性的元素 */
+[href]{
+    color: red;
+}
+
+[href="https://www.sina.com"]{
+    color: black;
+}
